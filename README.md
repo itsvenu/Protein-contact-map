@@ -1,8 +1,8 @@
 # Protein-contact-map
 
-######################
-### contact_map.pl ###
-######################
+
+# contact_map.pl ###
+
 
 - The script calculates the contacts of every residue
   in a given protein.
@@ -19,7 +19,7 @@
 
 - One can change the chain id to calculate contacts for other chains by replacing the 'A' with chain id of interest in the line 28 and 41.
 
-- #Usage 
+#Usage 
 - put the script and pdb file of interest in one directory.
 
 - perl contact_map.pl 
