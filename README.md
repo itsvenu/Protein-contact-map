@@ -8,8 +8,6 @@ then the pair can be termed as a "Contact".
 
 Here in this script the default distance cut off is 8 angstroms and sequence separation is 4 residues(|i-j|>4).
 
---> pdb files can be found at http://www.rcsb.org/pdb/explore/explore.do?structureId=5pti
-
 #Usage
 $ perl pdb_contacts.pl filename.pdb > contactsOUT.txt
 
