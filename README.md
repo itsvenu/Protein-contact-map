@@ -1,4 +1,4 @@
-# Protein-contact-map
+###Protein-contact-map
 Protein contact map is very important in many areas like "protein inter residue interaction prediction" and 
 the "structure prediction" of unknown sequence if its sequence has any similarity with already known 
 structure's sequence.
@@ -10,10 +10,11 @@ Here in this script the default distance cut off is 8 angstroms and sequence sep
 
 --> pdb files can be found at http://www.rcsb.org/pdb/home/home.do
 
-#Usage
+#####Usage
 $ perl pdb_contacts.pl filename.pdb > contactsOUT.txt
 
 or
 
 $ chmod +x pdb_contacts.pl
+
 $ ./pdb_contacts.pl filename.pdb > contactsOUT.txt
