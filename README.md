@@ -11,10 +11,10 @@ Here in this script the default distance cut off is 8 angstroms and sequence sep
 --> pdb files can be found at http://www.rcsb.org/pdb/home/home.do
 
 #####Usage
-$ perl pdb_contacts.pl filename.pdb > contactsOUT.txt
+      $ perl pdb_contacts.pl filename.pdb > contactsOUT.txt
 
 or
 
-$ chmod +x pdb_contacts.pl
+      $ chmod +x pdb_contacts.pl
 
-$ ./pdb_contacts.pl filename.pdb > contactsOUT.txt
+      $ ./pdb_contacts.pl filename.pdb > contactsOUT.txt
